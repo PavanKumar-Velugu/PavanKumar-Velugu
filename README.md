@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavanKumar-Velugu
 - 👀 I’m interested in Full-Stack Developer(MicroServices,Java,Spring Security,Spring boot,SpringMVC,Angular,Hibernate,MySql).
-- 🌱 I’m currently learning Spring Security,MicroServices,MongoDB.
+- 🌱 I’m currently learning MicroServices,MongoDB.
 - 📫 My mailid is pavanvelugu13@gmail.com
 
 <!---
